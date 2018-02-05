@@ -1,0 +1,7 @@
+Z:\практика трпо\лаба 1\examp1\example\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+Z:\практика трпо\лаба 1\examp1\example\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+Z:\практика трпо\лаба 1\examp1\example\example\bin\Debug\example.exe.config
+Z:\практика трпо\лаба 1\examp1\example\example\bin\Debug\example.exe
+Z:\практика трпо\лаба 1\examp1\example\example\bin\Debug\example.pdb
+Z:\практика трпо\лаба 1\examp1\example\example\obj\Debug\example.exe
+Z:\практика трпо\лаба 1\examp1\example\example\obj\Debug\example.pdb
